@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Pôle de la CdC",
+"color": "#049d41",
+"active": "true",
+"description": "Coordonnées de la communauté de communes",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNAUTE": "Bastides Dordogne Périgord", "ID_CDECOMM": 21 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.73427, 44.84197 ], [ 0.74438, 44.84213 ], [ 0.74456, 44.83437 ], [ 0.73449, 44.83421 ], [ 0.73427, 44.84197 ] ] ] ] } }
+]
+}
